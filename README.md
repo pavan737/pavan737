@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @pavan737
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I'm Pavan
+- 👀 I’m interested in Aws cloud and Devops engineering.
+- 🌱 I’m currently learning Redhat linux, SQL, CI/CD pipelines, etc.
+- 💞️ I’m looking to collaborate on free online projects.
+- 📫 Please ping me on pavanbk504@gmail.com.
 
 <!---
 pavan737/pavan737 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
